@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Resume & Portfolio 
 
-[Project 1 Title](/sample_page)
+[Resume](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
