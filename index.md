@@ -1,14 +1,14 @@
-## Resume & Portfolio
+## **This Page is Currently Under Construction**
 
 ---
 
 ### Resume & Portfolio 
 
-[Resume](/sample_page)
+[Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/resume.pdf)
+[Resume PDF](/pdf/resume.pdf)
 <img src="images\resume thumbnail.png"/>
 
 ---
