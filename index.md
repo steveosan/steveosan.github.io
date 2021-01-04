@@ -9,7 +9,7 @@
 
 ---
 
-[<div align="left">Resume PDF</div> ](/pdf/resume.pdf)
+[Resume PDF](/pdf/resume.pdf)
 <img width="250" height="250" src="images\resume thumbnail.png"/> 
 
 ---
