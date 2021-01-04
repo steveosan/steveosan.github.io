@@ -8,8 +8,9 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Resume PDF](/pdf/resume.pdf)
-<img width="250" height="250" src="images\resume thumbnail.png"/>
+
+[<div align="left">Resume PDF</div> ](/pdf/resume.pdf)
+<img width="250" height="250" src="images\resume thumbnail.png"/> 
 
 ---
 [Project 3 Title](http://example.com/)
