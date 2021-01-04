@@ -4,20 +4,20 @@
 
 ### Resume & Portfolio 
 
-[Project 1 Title](/sample_page)
+[Project 1 TBD](/sample_page)
 
 <img width="250" height="250" src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
+[Project 2 TBD](http://example.com/)
+
+<img width="250" height="250" src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
 [Resume PDF](/pdf/resume.pdf)
 
 <img width="250" height="250" src="images\resume thumbnail.png"/> 
-
----
-[Project 3 Title](http://example.com/)
-
-<img width="250" height="250" src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
