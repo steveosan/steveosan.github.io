@@ -10,6 +10,7 @@
 ---
 
 [Resume PDF](/pdf/resume.pdf)
+
 <img width="250" height="250" src="images\resume thumbnail.png"/> 
 
 ---
