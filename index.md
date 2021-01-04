@@ -9,7 +9,7 @@
 
 ---
 [Resume PDF](/pdf/resume.pdf)
-<img src="images\resume thumbnail.png"/>
+<img align="left" width="250" height="250" src="images\resume thumbnail.png"/>
 
 ---
 [Project 3 Title](http://example.com/)
