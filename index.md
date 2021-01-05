@@ -15,7 +15,7 @@
 <img width="250" height="250" src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Resume PDF](/pdf/resume.pdf)
+[Resume PDF](/pdf/Resume.pdf)
 
 <img width="250" height="250" src="images\resume thumbnail.png"/> 
 
