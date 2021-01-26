@@ -4,7 +4,7 @@
 
 ### Resume & Portfolio 
 
-[Project 1 TBD](/sample_page)
+[Actively building websites](/sample_page)
 
 <img width="250" height="250" src="images/dummy_thumbnail.jpg?raw=true"/>
 
