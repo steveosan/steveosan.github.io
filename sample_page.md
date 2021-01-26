@@ -1,14 +1,25 @@
 ## This is my internal website page / project page
 
-**Project description:** I am currently building out multiple HTML website's for my intro to web development course. For more details see [Path of Light Yoga Studio](https://6l5z9ladle9ygtrkfnzxgw-on.drv.tw/HTML/PathOfLightYoga/Index.html)
+
+
+**Page description:** I am currently building out multiple HTML websites for my Intro to Web Development Course. I thought it would be neat to share my website as it progresses as well as use github as a place to back up my code. 
+
+What I did here was create a shared folder in my goggle drive & hosted that folder. I then built out this page using mardown to be able to display it. (I know there is a way to do this in github – but I haven’t figured it out yet!) For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/). 
+ 
+
+
+
 
 ### Project 1 -Path of Light Yoga Studio
   For details see [Path of Light Yoga Studio](https://6l5z9ladle9ygtrkfnzxgw-on.drv.tw/HTML/PathOfLightYoga/Index.html)
 
 
-### Project 2 -Pacific Trails
-  For details see [Pacific Trails](https://6l5z9ladle9ygtrkfnzxgw-on.drv.tw/HTML/PathOfLightYoga/Index.html)
 
+
+### Project 2 -Pacific Trails
+  For details see [Pacific Trails](https://6l5z9ladle9ygtrkfnzxgw-on.drv.tw/HTML/PacificTrails/Index.html)
+
+  
 ```javascript
 if (isAwesome){
   return true
@@ -17,7 +28,7 @@ if (isAwesome){
 
 ### 3. TBD
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img img width="250" height="250" src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ### 4. TBD  
 
