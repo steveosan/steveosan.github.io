@@ -10,7 +10,7 @@
 
 ---
 
-[C# Program Portfolio](/C#portfolio.md)
+[C# Program Portfolio](Cportfolio.md)
 
 <img width="300" height="225" src="images\coding.jpg?raw=true"/>
 
