@@ -13,7 +13,7 @@ What I did here was create a shared folder in my goggle drive & hosted that fold
 ### Project 1 -Pacific Trails
 - [Pacific Trails](pacific_trials.md)
 
-<img img width="250" height="250" src="images/thumb PT.png?raw=true"/>
+<img img width="250" height="250" src="images/Thumb PT.png?raw=true"/>
 <br><br>
 
 ### Project 2 -
