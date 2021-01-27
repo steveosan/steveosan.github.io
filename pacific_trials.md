@@ -1,8 +1,8 @@
-# Project 1 - Pacific Trails 
+## Project 1 - Pacific Trails 
 
 ---
 
-## [Home](index.md) | [Project Page](sample_page.md) 
+### [Home](index.md) | [Project Page](sample_page.md) 
 ---
 
 
