@@ -5,7 +5,7 @@
 ## [Home](index.md) | [Project Page](sample_page.md) 
 ---
 
-##### **_Each hyperlink will direct you to a different version  of the "pacific trails" website._**
+##### **_*Each hyperlink will direct you to a different version  of the "Pacific Trails" website._**
 
 #### Week 1:  [Version 1](https://6l5z9ladle9ygtrkfnzxgw-on.drv.tw/HTML/PacificTrails v.1/Index.html)
 >Alright! The website has been born, welcom to the world little guy!
