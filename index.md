@@ -4,9 +4,9 @@
 
 ### Resume & Portfolio 
 
-[Actively building websites Portfolio](/sample_page.md)
+[Web Development Portfolio](/sample_page.md)
 
-<img width="250" height="250" src="images/dummy_thumbnail.jpg?raw=true"/>
+<img width="250" height="200" src="images/web-design.jpg?raw=true"/>
 
 ---
 
