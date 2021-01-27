@@ -18,8 +18,14 @@ What I did here was create a shared folder in my goggle drive & hosted that fold
 
 ### Project 2 -Pacific Trails
   For details see [Pacific Trails](https://6l5z9ladle9ygtrkfnzxgw-on.drv.tw/HTML/PacificTrails/Index.html)
-
-  
+<br>
+</br>
+<br>
+</br>
+<br>
+</br>
+<br>
+</br>
 ```javascript
 if (isAwesome){
   return true
