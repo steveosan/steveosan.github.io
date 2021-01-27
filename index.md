@@ -1,8 +1,8 @@
-## **This Page is Currently Under Construction**
+## **My Current Projects**
 
 ---
 
-### Resume & Portfolio 
+### Resume & Portfolio
 
 [Web Development Portfolio](/sample_page.md)
 
@@ -10,7 +10,7 @@
 
 ---
 
-[Project 2 TBD](http://example.com/)
+[C# Program Portfolio](http://example.com/)
 
 <img width="250" height="250" src="images/dummy_thumbnail.jpg?raw=true"/>
 
