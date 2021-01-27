@@ -1,9 +1,9 @@
-## Project 1 - _Pacific Trails_ 
+# Project 1 - Pacific Trails 
 
 
 |[Home](index.md)|[Project Page](sample_page.md)|
 
----
+
 
 ### Step 1:
 
