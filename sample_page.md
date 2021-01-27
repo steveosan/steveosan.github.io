@@ -11,9 +11,11 @@ What I did here was create a shared folder in my goggle drive & hosted that fold
 
 
 ### Project 1 -Pacific Trails
-  Version 1 [Pacific Trails v.1](https://6l5z9ladle9ygtrkfnzxgw-on.drv.tw/HTML/PacificTrails v.1/Index.html)
+  Version 1 [Pacific Trails v.1](https://6l5z9ladle9ygtrkfnzxgw-on.drv.tw/HTML/PacificTrails v.1/Index.html) 
+  >Alright! The website has been born, welcom to the world little guy! 
 
   Version 2 [Pacific Trails v.2](https://6l5z9ladle9ygtrkfnzxgw-on.drv.tw/HTML/pacific trails v.2/Index.html)
+  >Here we've added a CSS Stylesheet. Now our website doesn't look like an old craigslist ad. 
 
 
 
