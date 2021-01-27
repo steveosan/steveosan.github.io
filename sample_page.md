@@ -10,27 +10,32 @@ What I did here was create a shared folder in my goggle drive & hosted that fold
 
 
 
-### Project 1 -Path of Light Yoga Studio
-  For details see [Path of Light Yoga Studio](https://6l5z9ladle9ygtrkfnzxgw-on.drv.tw/HTML/PathOfLightYoga/Index.html)
+### Project 1 -Pacific Trails
+  Version 1 [Pacific Trails v.1](https://6l5z9ladle9ygtrkfnzxgw-on.drv.tw/HTML/PacificTrails v.1/Index.html)
+
+  Version 2 [Pacific Trails v.2](https://6l5z9ladle9ygtrkfnzxgw-on.drv.tw/HTML/pacific trails v.2/Index.html)
 
 
 
 
-### Project 2 -Pacific Trails
-  For details see [Pacific Trails](https://6l5z9ladle9ygtrkfnzxgw-on.drv.tw/HTML/PacificTrails/Index.html)
+### Project 2 -
+. . . 
+
+### Project 3 -
+. . .
+### Here is an image:
+
+<img img width="250" height="250" src="images/dummy_thumbnail.jpg?raw=true"/>
+
+
+### Project 4 - 
+.
+.
+.
+Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
 
 ```javascript
 if (isAwesome){
   return true
 }
 ```
-
-### 3. TBD
-
-<img img width="250" height="250" src="images/dummy_thumbnail.jpg?raw=true"/>
-
-### 4. TBD  
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-
