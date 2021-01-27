@@ -6,18 +6,18 @@
 
 [Web Development Portfolio](/sample_page.md)
 
-<img width="250" height="200" src="images/web-design.jpg?raw=true"/>
+<img width="300" height="225" src="images/web-design.jpg?raw=true"/>
 
 ---
 
-[C# Program Portfolio](http://example.com/)
+[C# Program Portfolio](/C#portfolio.md)
 
-<img width="250" height="250" src="images/dummy_thumbnail.jpg?raw=true"/>
+<img width="300" height="225" src="images\coding.jpg?raw=true"/>
 
 ---
 [Resume PDF](/pdf/Resume.pdf)
 
-<img width="250" height="250" src="images\resume thumbnail.png"/> 
+<img width="200" height="250" src="images\resume thumbnail.png"/> 
 
 ---
 
