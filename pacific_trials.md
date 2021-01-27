@@ -3,6 +3,8 @@
 
 ## [Home](index.md) | [Project Page](sample_page.md) 
 
+<br><br>
+
 Each link is adifferent version of the 'pacific trails' website_
 
 
