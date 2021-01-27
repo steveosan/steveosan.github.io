@@ -4,7 +4,7 @@
 
 ### Resume & Portfolio 
 
-[Actively building websites Portfolio](/sample_page)
+[Actively building websites Portfolio](/project)
 
 <img width="250" height="250" src="images/dummy_thumbnail.jpg?raw=true"/>
 
