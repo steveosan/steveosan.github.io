@@ -1,7 +1,7 @@
-# Web Development Portfolio
+## Web Development Portfolio
 
 ---
-## [Home](index.md) | [C# Programs](Cportfolio.md) 
+### [Home](index.md) | [C# Programs](Cportfolio.md) 
 ---
 
 
