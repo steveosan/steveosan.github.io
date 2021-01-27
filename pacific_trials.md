@@ -3,7 +3,7 @@
 
 ## [Home](index.md) | [Project Page](sample_page.md) 
 
-_Each link is adifferent version of the 'pacific trails' website_
+Each link is adifferent version of the 'pacific trails' website_
 
 
 
