@@ -9,7 +9,7 @@
 
 What I did here was create a shared folder in my goggle drive & hosted that folder. (I know there is a way to do this in github – but I haven’t figured it out yet!) I then built out this page using [GitHub Markdown](https://guides.github.com/features/mastering-markdown/) to be able to display it.  
  
- <br><br>
+
 
 
 
