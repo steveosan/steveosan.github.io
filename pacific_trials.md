@@ -4,6 +4,7 @@
 
 ## [Home](index.md) | [Project Page](sample_page.md) 
 ---
+<br><br>
 
 ##### **_*Each hyperlink will direct you to a different version  of the "Pacific Trails" website._**
 
