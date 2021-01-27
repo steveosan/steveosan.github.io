@@ -12,21 +12,19 @@ What I did here was create a shared folder in my goggle drive & hosted that fold
 
 ### Project 1 -Pacific Trails
 - [Pacific Trails](pacific_trials.md)
+
+<img img width="250" height="250" src="images/thumb PT.png?raw=true"/>
 <br><br>
-<br><br>
-<br><br>
+
 ### Project 2 -
 <br><br>
 <br><br>
 <br><br>
+
 ### Project 3 -
 <br><br>
 <br><br>
 <br><br>
-### Here is an image:
-
-<img img width="250" height="250" src="images/dummy_thumbnail.jpg?raw=true"/>
-
 
 ### Project 4 - 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
